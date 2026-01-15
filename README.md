@@ -1,3 +1,3 @@
 ## 🏆 LeetCode SQL 50
+[![SQL 50](https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif)](https://leetcode.com/u/Md_shafiya-8019/)
 
-<img src="https://github.com/user-attachments/assets/bffd9289-c6fd-46a4-a26a-408d277e1d3e" width="300" />
